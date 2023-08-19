@@ -1,4 +1,5 @@
 <include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/pvHieu3001/dockerprj/tree/main.svg?style=svg)]
 
 ## Project Overview
 
